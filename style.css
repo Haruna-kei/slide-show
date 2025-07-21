@@ -6,6 +6,7 @@ img {
 .cover-slide {
   position: relative;
   overflow: hidden;
+  width: 100vw;
 }
 
 .cover-slide::after {
